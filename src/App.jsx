@@ -21,7 +21,7 @@ const ProfilePage = () => {
           Previously, I contributed to building efficient CRUD API and NO-SQL
           database architecture at{' '}
           <a
-            href="https://coursecompass.framer.website"
+            href="https://coursecompass.in"
             className="text-blue-400 hover:underline"
           >
             Course Compass
